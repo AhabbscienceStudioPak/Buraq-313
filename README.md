@@ -10,7 +10,7 @@ Unless specified in the file, Our code and resources are now licensed under the 
 ## Installation
 
 	cd ~/
-	git clone git://github.com/BKcore/HexGL.git
+	git clone git://github.com/AhabbscienceStudioPak/Buraq-313.git
 	cd HexGL
 	python -m SimpleHTTPServer
 	chromium index.html
