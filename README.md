@@ -2,6 +2,7 @@ Buraq 313
 =========
 
 Source code of Buraq 313, the futuristic HTML5 racing game by Ahabbscience Studio Pakistan.
+Play our game on http://gamejolt.com/games/buraq-313/209629.
 
 ## License
 
