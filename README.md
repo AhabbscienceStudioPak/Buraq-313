@@ -20,6 +20,6 @@ To use full size textures, swap the two textures/ and textures.full/ directories
 
 ## Note
 
-Buraq 313 is based on Hexgl by BKcore.
-
-
+Buraq 313 is based on Hexgl by BKcore.<br>
+Buraq 313 is By<br>
+<img src="https://yt3.ggpht.com/-KUw5nvJ_w-I/AAAAAAAAAAI/AAAAAAAAAAA/cbtXIhdwVTs/s100-c-k-no-mo-rj-c0xffffff/photo.jpg">
